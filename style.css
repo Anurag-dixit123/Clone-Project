@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(190, 194, 157);
+}
+
+image {
+     background-size: contain;
+}
+.container {
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+}
+.container2 {
+   background-color: rebeccapurple;
+    height: 600px;
+    width: 1300px;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+h1 {
+
+}
+.text {
+    line-height: 1.5rem;
+   word-spacing: 1vh
+}
